@@ -79,7 +79,7 @@
     "@radix-ui/react-select": "^0.1.1",
     "@radix-ui/react-slider": "^1.2.2",
     "@storybook/blocks": "^7.6.3",
-    "@storybook/react": "^7.6.3",
+    "@storybook/react": "^7.6.21",
     "@tanstack/react-query": "^5.17.15",
     "@tanstack/react-table": "^8.20.6",
     "@types/uuid": "^10.0.0",
