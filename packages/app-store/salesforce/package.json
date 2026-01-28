@@ -7,7 +7,7 @@
   "dependencies": {
     "@calcom/lib": "*",
     "@calcom/prisma": "*",
-    "@jetstreamapp/soql-parser-js": "^6.1.0",
+    "@jetstreamapp/soql-parser-js": "^6.2.0",
     "@jsforce/jsforce-node": "^3.6.3"
   },
   "devDependencies": {
