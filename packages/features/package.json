@@ -14,7 +14,7 @@
     "deploy:trigger:staging": "npx trigger.dev@latest deploy --env staging --skip-promotion"
   },
   "dependencies": {
-    "@calcom/atoms": "workspace:*",
+    "@calcom/atoms": "1.0.3",
     "@calcom/dayjs": "workspace:*",
     "@calcom/lib": "workspace:*",
     "@calcom/trpc": "workspace:*",
