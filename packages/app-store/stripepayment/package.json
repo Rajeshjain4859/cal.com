@@ -10,7 +10,7 @@
     "downgrade": "ts-node ./downgrade.ts"
   },
   "dependencies": {
-    "@calcom/app-store": "workspace:*",
+    "@calcom/app-store": "0.1.0",
     "@calcom/dayjs": "workspace:*",
     "@calcom/emails": "workspace:*",
     "@calcom/features": "workspace:*",
