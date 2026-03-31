@@ -25,7 +25,7 @@
     "typescript": "5.9.3"
   },
   "dependencies": {
-    "@calcom/app-store": "workspace:*",
+    "@calcom/app-store": "0.1.0",
     "@calcom/dayjs": "workspace:*",
     "@calcom/emails": "workspace:*",
     "@calcom/features": "workspace:*",
